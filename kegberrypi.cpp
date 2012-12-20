@@ -25,7 +25,7 @@ static int flowLastTick0 = 0;
 
 #define URL "172.16.1.125:80"
 #define SENSOR0_NAME "kegboard.flow0"
-#define API_KEY "100000093b2b6a727dc6972fbf26f2448dc60c0c"
+#define API_KEY ""
 
 using namespace std;
 
