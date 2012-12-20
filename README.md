@@ -5,6 +5,7 @@ https://github.com/tannergifford/kegberry-pi
 
 ## Notes
 
+Add API
 Compile with g++ -o kegberrypi kegberrypi.cpp -lwiringPi
 
 
