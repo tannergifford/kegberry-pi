@@ -1,0 +1,14 @@
+#commands
+
+	g++ -o kegberrypi kegberrypi.cpp -lwiringPi
+
+#supervisor
+	sudo supervisorctl -i
+logs in /var/log/supervisor/
+config in /etc/supervisor/conf.d/
+
+
+#notes
+
+	Most passwords for users I created are p4ssword.
+
